@@ -1,3 +1,6 @@
+A fork to focus on workspace bazel and Python & Javascript languages. Continue dev from 4.6.0
+---
+
 <div align="center">
     <img width="200" height="200" src="https://raw.githubusercontent.com/rules-proto-grpc/rules_proto_grpc/master/docs/_static/logo.svg">
     <h1>Protobuf and gRPC rules for <a href="https://bazel.build">Bazel</a></h1>
